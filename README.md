@@ -1,6 +1,6 @@
 Members:
-Bowie Lee
-Omar
-Elias
-Abed
-Andreas
+Bowie Lee,
+Omar Khattab,
+Elias Cheruthottil,
+Abed,
+Andreas Cabrera,
