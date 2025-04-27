@@ -2,5 +2,5 @@ Members:
 Bowie Lee,
 Omar Khattab,
 Elias Cheruthottil,
-Abed,
+Abed Taha
 Andreas Cabrera,
